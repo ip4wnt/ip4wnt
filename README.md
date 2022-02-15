@@ -5,4 +5,4 @@
 MBA in Strategic Management  
 Certificated Project Manager  
   
-Winner Moscow Travel Hack 2020
+Moscow Travel Hack 2020 Winner (1-st Place) 
