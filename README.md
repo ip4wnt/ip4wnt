@@ -1,5 +1,4 @@
-# Ilya Pankratov
-Full Stuck Developer || Graphic Designer  
+# Full Stuck Developer || Graphic Designer  
   
 20+ years experience  
   
