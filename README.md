@@ -1,7 +1,10 @@
-# Full Stuck Developer || Graphic Designer  
-  
-20+ years experience  
-  
+# Full Stuck Developer || Graphic Designer
+I adhere to сlean code without frameworks and dependencies.
+
+20+ years experience 
+
+Nginx / Apache / Node.js / PHP / JavaScript / HTML / CSS / Figma / All Adobe products (Photoshop, Illustrator, InDesign, Premier, AE, Animate, etc.)
+
 MBA in Strategic Management  
 Certificated Project Manager  
   
