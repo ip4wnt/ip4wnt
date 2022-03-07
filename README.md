@@ -2,8 +2,7 @@
 I adhere to сlean code without frameworks and dependencies.
 
 20+ years experience 
-
-Nginx / Node.js / JavaScript / HTML / CSS / Figma / All Adobe products
+Nginx / Apache / Node.js / JavaScript / PHP / SQL / noSQL / Webpack / HTML / CSS / Figma / All Adobe products
 
 MBA in Strategic Management  
 Certificated Project Manager  
