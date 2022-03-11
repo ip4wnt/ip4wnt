@@ -1,4 +1,4 @@
-# Full Stuck Developer || Graphic Designer
+# Full Stack Developer || Graphic Designer
 
 20+ years experience  
 Nginx / Apache / Node.js / JavaScript / PHP / SQL / noSQL / Webpack / HTML / CSS / Figma / All Adobe products
